@@ -1,0 +1,2 @@
+# Linters
+Setup for linters
